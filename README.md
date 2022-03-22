@@ -1,4 +1,4 @@
-# 3D-prints_for_25mmrails
+# 3D-prints_for_behavioural_arean_setup
 3D prints which helped me to assemble a tracking arena using 25mm rails and 3D printed parts made out of PLA
 
 Parts include:
