@@ -4,5 +4,6 @@
 Parts include:
 
 - L-shaped brackets compatible with 25mm railing from thorlabs or 80/20 railing
+- Dovetail cross-couplers to center and align two RLA075/M rails from thorlab, perpendicular to each other, includes plugs that should be printed in PLA-flex to protect the anodised rails
 - Pan tilt camera mount, made of three parts, designed for Basler USB ace cams, tested for acA1440-220um, provides flexible but precise positiong for individual cameras.
 - A 3D printed case for the PCB triggering device obtained from the following repository: https://github.com/strawlab/triggerbox.git, made of three parts and provides better cable tension relief than original case featured in the original repository
